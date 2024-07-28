@@ -1,0 +1,34 @@
+img {
+    transition: transform 0.3s ease;
+}
+
+img:hover {
+    transform: scale(1.1);
+}
+
+#Header{
+    font-family: "pkm";
+    color: blue;
+    text-shadow: 1px 5px 1px yellow ;
+    font-size: 6vw;
+}
+
+#pika-button{
+    width: 20%;
+}
+
+#portal-container{
+    font-family: "pkm";
+    text-shadow: 1px 2px 1px yellow;
+    color: blue;
+
+
+}
+
+header{
+    font-size: 10vw;
+    background-color: rgb(255, 255, 255);
+    font-family: "pkm";
+    text-shadow: 1px 5px 1px yellow;
+    color: blue;
+}
